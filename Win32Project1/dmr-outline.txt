@@ -1,0 +1,14 @@
+Gravity{
+
+//object falls if not touching an object - NEED base Object class!
+
+}
+
+Jump{
+
+//
+
+}
+
+/*
+Player Movement -
